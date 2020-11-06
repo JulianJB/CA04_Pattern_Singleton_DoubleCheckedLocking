@@ -1,9 +1,9 @@
 /**
- * This example aims to simulate the behavior of the registry editor
- * from Windows-based operating systems. The singleton pattern is applied
- * to guarantee that only a single instance of the system registry is
- * created as the possibility to have multiple copies of the system registry
- * may lead to inconsistencies and other issues.
+ * 1) provide another example of an Object you feel should be implemented as a Singleton
+ *
+ * See example description in 19251549\EagerInitialization\src\Runner.java
+ *
+ * 2) research and produce a set of code-folders: DoubleCheckedLockingInitialization
  */
 
 class Runner {
